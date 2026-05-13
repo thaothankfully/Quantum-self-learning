@@ -1,4 +1,4 @@
-# Quantum-self-learning
+# Some Optimization basic stuffs:
 
 
 1. Basic Optimization:<br>
