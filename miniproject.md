@@ -18,4 +18,7 @@ C_j: chưa có <br>
 s_i: service radius https://www.researchgate.net/publication/366902222_Set_cover_model-based_optimum_location_of_electric_vehicle_charging_stations<br>
 R driving range of the EV: https://vinfastauto.id/en/vf5 <br>
 Demand D_j: chưa có
-alpha and n: up for me to test and check multiple scenarios
+alpha and n: up for me to test and check multiple scenarios <br>
+https://plo.vn/infographic-dia-chi-tru-so-trung-tam-hanh-chinh-lanh-dao-168-phuong-xa-dac-khu-cua-tp-hcm-moi-post858433.html?utm_source=coccoc&utm_medium=ccnews&zarsrc=31&utm_campaign=zalo&fbclid=IwY2xjawRxApdleHRuA2FlbQIxMQBicmlkETF6WWhsVlBEUEU5bFYxZnI2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoQaTlQ8n3J7Xwzs84fPBcL6kKZymHZX36tv26jSJIoMtJwpt7rbf4CnE8Vb_aem_IXJ7qWb-E4JeBCBUDyDPhQ <br>
+https://thuvienphapluat.vn/phap-luat/ho-tro-phap-luat/tra-cuu-168-phuong-xa-tphcm-chinh-thuc-sau-sap-nhap-nam-2025-day-du-chi-tiet-danh-sach-toan-bo-phuo-570655-223893.html <br>
+
